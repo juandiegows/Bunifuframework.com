@@ -1,10 +1,10 @@
-#### Bunifuframework ~ Pretty Controls and Components
+#### Bunifuframework ~ Controles y Componentes al mejor estilo
 
-> Modern beautiful controls and components for creating stunning app UI
+> Controles y componentes modernos y bonitos para crear una interfaz de usuario de aplicación impresionante
 
-**Site:** https://bunifuframework.com  
-**File:** `Bunifu.Licensing.dll`  
-**Usage:**
+**Sitio:** [https://bunifuframework.com](https://bunifuframework.com)  
+**Archivo:** `Bunifu.Licensing.dll`  
+**Uso:**
 
 1 - Download/Install Bunifu &' Exit Visual Studio  
 2 - Go to the Package folder &' Replace **Bunifu.Licensing.dll** with the cracked file.  
