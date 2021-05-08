@@ -6,7 +6,11 @@
 **Archivo:** `Bunifu.Licensing.dll`  
 **Uso:**
 
-1 - Download/Install Bunifu &' Exit Visual Studio  
+1 - Descarga e instalar Bunifu.
+
+clic derecho en el proyecto donde lo vas a instalar y en 
+![image](https://user-images.githubusercontent.com/65135568/117551876-ee0fac00-b00d-11eb-94e8-4d9f74e4dd4b.png)
+
 2 - Go to the Package folder &' Replace **Bunifu.Licensing.dll** with the cracked file.  
 3 - Start Visual Studio &' enjoy   
 
