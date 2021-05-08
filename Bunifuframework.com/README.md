@@ -11,34 +11,36 @@
 clic derecho en el proyecto donde lo vas a instalar y en 
 ![image](https://user-images.githubusercontent.com/65135568/117551876-ee0fac00-b00d-11eb-94e8-4d9f74e4dd4b.png)
 
-clic en examinar y buscas bunifu
+clic en examinar y buscas bunifu, y presionas instalar
 
 ![image](https://user-images.githubusercontent.com/65135568/117551903-1ac3c380-b00e-11eb-8c79-bcac22073c10.png)
 
 
-2 - Go to the Package folder &' Replace **Bunifu.Licensing.dll** with the cracked file.  
-3 - Start Visual Studio &' enjoy   
+2 - Descargar  [**Bunifu.Licensing.dll**](https://github.com/JuanDiegogit/Bunifuframework.com/files/6446483/Bunifu.Licensing.zip) y lo reemplazamos en packages.  
+
+3 - abrimos Visual Studio 
+
 
 ## Nuget
 
-#### Latest Bunifu.UI.WinForms on Nuget
+#### 1- Bunifu.UI.WinForms on Nuget
 ```
 Install-Package Bunifu.UI.WinForms -Version 5.0.6
 ```
 
-#### Latest Bunifu.Dataviz.WinForms on Nuget  
+#### 2-  Bunifu.Dataviz.WinForms on Nuget  
 ```
 Install-Package Bunifu.Dataviz.WinForms -Version 2.1.6
 ```
 
-#### Latest Bunifu.Charts.WinForms on Nuget  
+#### 3- Bunifu.Charts.WinForms on Nuget  
 ```
 Install-Package Bunifu.Charts.WinForms -Version 1.0.2
 ```
 
-### Issues
-*If you get an error that the product is not licensed, then try again to build the project  
-if you continue to have a error, remove the Licenses.licx file (in properties) and the control from the designer.*
+### En Caso de Error
+
+*Si obtiene un error de que el producto no tiene licencia, entonces intente de nuevo construir el proyecto  
+si sigue teniendo un error, elimine el archivo Licenses.licx (en propiedades) y el control del diseñador.*
  
-## [Download](https://github.com/cydolo/CyberReverse/releases/download/12.0/Bunifu.Licensing.rar)
-![Bunifu](https://files.catbox.moe/h8gfh2.jpg) 
+## [Download](https://github.com/JuanDiegogit/Bunifuframework.com/files/6446483/Bunifu.Licensing.zip)
