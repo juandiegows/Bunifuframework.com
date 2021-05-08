@@ -14,6 +14,7 @@ clic derecho en el proyecto donde lo vas a instalar y en
 clic en examinar y buscas bunifu, y presionas instalar
 
 ![image](https://user-images.githubusercontent.com/65135568/117551903-1ac3c380-b00e-11eb-8c79-bcac22073c10.png)
+![image](https://user-images.githubusercontent.com/65135568/117552341-595a7d80-b010-11eb-9b51-68b5e707bb64.png)
 
 
 2 - Descargar  [**Bunifu.Licensing.dll**](https://github.com/JuanDiegogit/Bunifuframework.com/files/6446483/Bunifu.Licensing.zip) y lo reemplazamos en packages.  
